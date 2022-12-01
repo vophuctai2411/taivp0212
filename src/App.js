@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TEST DEPLOYMENT REACT
+          TEST DEPLOYMENT REACT version 02
         </a>
       </header>
     </div>
