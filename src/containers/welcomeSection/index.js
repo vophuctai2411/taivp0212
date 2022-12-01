@@ -4,7 +4,7 @@ import Phone from "../../asssets/Phone.png";
 import Welcome from "../../asssets/Welcome.png";
 import { ArrowRightOutlined } from "@ant-design/icons";
 import { Input } from "antd";
-import Button from "../../components/Button";
+import Button from "../../components/Button/Button";
 
 function WelcomeSection() {
   return (

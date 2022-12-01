@@ -1,6 +1,6 @@
 import "./header.css";
 import Logo from "../../asssets/Logo.png";
-import Button from "../../components/Button";
+import Button from "../../components/Button/Button";
 import { Row, Col } from "antd";
 
 function Header() {
